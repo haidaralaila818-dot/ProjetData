@@ -1,0 +1,211 @@
+id_vente,client,produit,quantite,prix_unitaire,date_vente,ville
+150,Mariam Konaté,Thé,10,,2026-09-05,Ségou
+4,  Seydou Camara ,Savon,2,abc,12-04-2026,BAMAKO
+176,awa traoré,Farine,10,2000,22/07/2026,Sikasso
+127,Fatoumata Diallo,Savon,2,500,2026-08-29,Kayes
+83,Fatoumata Diallo,Sucre,1,-300,2026-05-03,Sikasso
+9,MOUSSA KEITA,Savon,1,750,09-04-2026,Bamako
+101,Aminata Sow,Lait,10,,17/10/2026,Bamako
+142,  Seydou Camara ,riz,5,2000,09/10/2026,Bamako
+67,Mariam Konaté,Sucre,1,abc,23-01-2026,Sikasso
+173,Moussa Keita,Savon,999,2000,2026-10-04,BAMAKO
+12,  Seydou Camara ,Thé,2,1500,29-03-2026,Sikasso
+138,awa traoré,Lait,5,500,25-07-2026,Sikasso
+170,Awa Traoré,Savon,,750,12-03-2026,BAMAKO
+43,Mariam Konaté,riz,1,1000,2026-10-27,BAMAKO
+105,MOUSSA KEITA,riz,3,2000,12-08-2026,Sikasso
+44,MOUSSA KEITA,Thé,,750,06/04/2026,Bamako
+94,Awa Traoré,Riz,5,750,2026-08-04,Sikasso
+57,Moussa Keita,Riz,5,1000,09-07-2026,Sikasso
+122,MOUSSA KEITA,riz,1,2000,18-03-2026,Mopti
+19,  Seydou Camara ,Savon,10,abc,2026-02-02,Mopti
+159,Awa Traoré,Lait,1,2000,27-03-2026,BAMAKO
+36,Aminata Sow,Huile,2,-300,08-04-2026,Sikasso
+53,  Seydou Camara ,Savon,10,2000,25/06/2026,BAMAKO
+31,MOUSSA KEITA,Savon,10,750,2026-01-17,Kayes
+129,Moussa Keita,Savon,,1500,28-02-2026,BAMAKO
+134,Fatoumata Diallo,Riz,999,500,22-10-2026,BAMAKO
+174,awa traoré,Farine,999,,2026-09-04,Bamako
+25,,riz,2,500,07/06/2026,Bamako
+18,Moussa Keita,Thé,,1000,25/01/2026,Mopti
+89,MOUSSA KEITA,Savon,5,1500,07-10-2026,Ségou
+113,  Seydou Camara ,Savon,,,2026-10-09,Sikasso
+112,Mariam Konaté,Lait,10,-300,2026-10-25,Ségou
+190,Awa Traoré,Huile,,750,09/05/2026,Bamako
+119,  Seydou Camara ,Farine,5,2000,07-01-2026,Sikasso
+60,Aminata Sow,Sucre,999,,13/01/2026,Sikasso
+155,  Seydou Camara ,Savon,1,1000,2026-03-15,Sikasso
+78,Mariam Konaté,Farine,2,1500,2026-02-24,Bamako
+104,Mariam Konaté,Farine,10,2000,25-09-2026,Ségou
+92,Awa Traoré,Savon,2,-300,08/08/2026,Ségou
+135,Moussa Keita,Thé,3,-300,2026-03-31,Kayes
+122,MOUSSA KEITA,riz,1,2000,18-03-2026,Mopti
+61,Awa Traoré,Farine,5,750,23-03-2026,bamako
+128,,Sucre,3,1500,21/08/2026,Ségou
+146,Mariam Konaté,Huile,5,1500,2026-09-05,Ségou
+102,Aminata Sow,Farine,1,,17-09-2026,Bamako
+5,Fatoumata Diallo,Huile,3,abc,04/01/2026,bamako
+11,Fatoumata Diallo,riz,,1500,2026-07-09,Mopti
+50,Mariam Konaté,Savon,5,1000,2026-07-09,Mopti
+133,awa traoré,Sucre,1,2000,15-06-2026,Kayes
+183,Awa Traoré,Lait,3,abc,2026-02-20,bamako
+48,,riz,10,-300,07/02/2026,Bamako
+20,Mariam Konaté,Savon,,750,06-01-2026,BAMAKO
+81,  Seydou Camara ,Farine,,1000,2026-10-08,Sikasso
+115,MOUSSA KEITA,Farine,2,1000,02-10-2026,Sikasso
+190,Awa Traoré,Huile,,750,09/05/2026,Bamako
+26,  Seydou Camara ,Huile,2,1000,06/09/2026,Sikasso
+71,Mariam Konaté,Riz,5,2000,31-03-2026,Sikasso
+62,MOUSSA KEITA,Sucre,3,,2026-04-13,Bamako
+96,Moussa Keita,Farine,2,1000,13/04/2026,Kayes
+167,Fatoumata Diallo,Savon,10,,15-07-2026,Bamako
+75,MOUSSA KEITA,Farine,1,500,12/04/2026,Mopti
+192,awa traoré,riz,10,abc,06-03-2026,Ségou
+82,Mariam Konaté,Farine,999,2000,07-05-2026,Kayes
+157,awa traoré,Sucre,10,500,07-09-2026,Kayes
+79,Moussa Keita,Farine,5,750,13/10/2026,Kayes
+139,Mariam Konaté,Riz,999,abc,15/06/2026,Kayes
+187,,Sucre,999,1000,20/06/2026,Bamako
+141,Awa Traoré,Sucre,999,-300,13-09-2026,Sikasso
+73,  Seydou Camara ,Huile,10,1500,2026-08-15,Kayes
+120,  Seydou Camara ,riz,999,2000,05/04/2026,BAMAKO
+100,,riz,999,2000,05/05/2026,BAMAKO
+54,Fatoumata Diallo,Riz,999,abc,27/01/2026,Bamako
+52,Fatoumata Diallo,Sucre,3,1000,01/03/2026,Kayes
+116,MOUSSA KEITA,Savon,1,2000,26-09-2026,bamako
+186,MOUSSA KEITA,Riz,,750,2026-03-04,Bamako
+197,,Savon,5,,27-10-2026,Ségou
+149,Moussa Keita,Farine,999,-300,02-06-2026,Mopti
+140,MOUSSA KEITA,Lait,1,abc,2026-10-05,Mopti
+59,Moussa Keita,Huile,2,1000,2026-10-14,Ségou
+3,,Riz,10,1500,17/02/2026,Mopti
+93,Ibrahim Coulibaly,Thé,3,-300,17/06/2026,Sikasso
+111,Aminata Sow,Sucre,2,2000,09/01/2026,Sikasso
+131,Aminata Sow,Savon,,2000,2026-03-05,Mopti
+10,  Seydou Camara ,Lait,3,abc,30/04/2026,bamako
+46,MOUSSA KEITA,Lait,3,,26-10-2026,bamako
+176,awa traoré,Farine,10,2000,22/07/2026,Sikasso
+65,,Thé,1,500,2026-10-25,Sikasso
+177,Ibrahim Coulibaly,riz,999,abc,15-05-2026,Kayes
+184,Ibrahim Coulibaly,riz,999,1500,2026-08-16,Kayes
+49,Ibrahim Coulibaly,riz,2,2000,03/10/2026,bamako
+17,Mariam Konaté,Farine,2,1500,2026-07-24,Bamako
+23,Ibrahim Coulibaly,Huile,2,1500,17-09-2026,Mopti
+121,,Riz,1,-300,2026-02-03,bamako
+64,awa traoré,Savon,1,,2026-09-18,bamako
+200,Fatoumata Diallo,Lait,3,abc,2026-02-18,bamako
+25,,riz,2,500,07/06/2026,Bamako
+42,Ibrahim Coulibaly,Riz,,500,30-01-2026,Bamako
+38,MOUSSA KEITA,Huile,999,750,04/10/2026,Ségou
+33,awa traoré,Thé,1,1500,2026-08-31,Sikasso
+98,,Riz,1,2000,28/02/2026,Sikasso
+153,Mariam Konaté,Lait,2,500,2026-03-19,BAMAKO
+99,MOUSSA KEITA,riz,5,abc,22-10-2026,Mopti
+126,Awa Traoré,Thé,2,750,30-03-2026,Ségou
+39,Aminata Sow,Riz,999,1500,2026-09-06,bamako
+189,Moussa Keita,Huile,3,500,17-03-2026,Mopti
+1,MOUSSA KEITA,Huile,2,2000,27/02/2026,Kayes
+111,Aminata Sow,Sucre,2,2000,09/01/2026,Sikasso
+77,Moussa Keita,Riz,2,abc,2026-07-16,BAMAKO
+51,awa traoré,Huile,,2000,28/09/2026,Sikasso
+29,Awa Traoré,Sucre,3,750,07/05/2026,Mopti
+6,awa traoré,Lait,5,750,22/06/2026,BAMAKO
+137,  Seydou Camara ,Savon,5,,23/02/2026,Kayes
+86,MOUSSA KEITA,Thé,1,abc,2026-10-05,Ségou
+68,Ibrahim Coulibaly,riz,10,,09/08/2026,Kayes
+63,awa traoré,Savon,3,,2026-04-09,Sikasso
+76,,Sucre,,abc,2026-02-07,Kayes
+118,Moussa Keita,Farine,,2000,24/01/2026,Bamako
+198,awa traoré,Sucre,1,abc,16-09-2026,Ségou
+152,  Seydou Camara ,Thé,,,30/07/2026,Ségou
+123,Mariam Konaté,Thé,999,1500,02-08-2026,Ségou
+188,MOUSSA KEITA,Lait,999,1500,11/10/2026,BAMAKO
+45,awa traoré,Thé,10,500,19/10/2026,Kayes
+15,  Seydou Camara ,Huile,5,-300,11/06/2026,Sikasso
+66,,Sucre,5,750,2026-06-10,Sikasso
+175,Mariam Konaté,Lait,999,abc,14/03/2026,Bamako
+181,Moussa Keita,Thé,10,1500,01/03/2026,Ségou
+35,awa traoré,Sucre,999,,26-07-2026,bamako
+107,  Seydou Camara ,Sucre,2,,2026-01-15,Sikasso
+132,,Riz,1,-300,2026-10-04,Ségou
+125,awa traoré,Huile,3,1500,20/02/2026,bamako
+196,Moussa Keita,Savon,1,1000,14-06-2026,Mopti
+114,MOUSSA KEITA,Lait,,750,09/05/2026,Bamako
+162,,Huile,5,1500,15-07-2026,bamako
+21,Moussa Keita,Farine,5,2000,24/06/2026,Bamako
+13,Awa Traoré,Sucre,999,,13/10/2026,BAMAKO
+168,Awa Traoré,Farine,10,500,2026-07-22,BAMAKO
+195,  Seydou Camara ,riz,5,750,2026-07-25,Bamako
+194,Awa Traoré,Riz,5,2000,23-01-2026,Ségou
+22,awa traoré,Savon,10,1000,15-05-2026,BAMAKO
+84,Moussa Keita,Sucre,2,750,2026-06-21,Ségou
+161,Moussa Keita,riz,2,1000,2026-09-29,Mopti
+178,Mariam Konaté,Lait,10,500,2026-04-30,Mopti
+41,MOUSSA KEITA,Savon,2,-300,12-10-2026,bamako
+88,Aminata Sow,Thé,999,2000,2026-01-04,Mopti
+117,Mariam Konaté,Huile,1,2000,04/07/2026,Sikasso
+108,Fatoumata Diallo,Riz,10,2000,2026-05-13,Mopti
+97,Fatoumata Diallo,Lait,5,1500,28-02-2026,bamako
+56,Moussa Keita,Riz,,750,05/01/2026,BAMAKO
+136,Aminata Sow,Lait,3,-300,09/09/2026,Sikasso
+24,Awa Traoré,riz,5,,29/09/2026,Sikasso
+164,  Seydou Camara ,Lait,1,1000,2026-08-27,Mopti
+166,  Seydou Camara ,riz,999,abc,04/06/2026,bamako
+18,Moussa Keita,Thé,,1000,25/01/2026,Mopti
+103,Moussa Keita,Thé,,-300,2026-08-10,bamako
+145,Fatoumata Diallo,Thé,10,2000,2026-03-20,BAMAKO
+37,Mariam Konaté,riz,5,750,25/08/2026,Bamako
+163,Fatoumata Diallo,Riz,5,2000,25-08-2026,BAMAKO
+2,Aminata Sow,Riz,10,750,22-02-2026,Bamako
+180,Awa Traoré,Savon,1,1000,29/07/2026,Ségou
+87,,Thé,999,500,27-10-2026,Ségou
+191,Moussa Keita,Savon,1,,03/07/2026,Bamako
+70,Aminata Sow,Thé,2,1000,01-06-2026,Kayes
+47,Fatoumata Diallo,Farine,,1000,2026-05-16,Sikasso
+8,Fatoumata Diallo,Lait,10,750,2026-03-05,Mopti
+69,Aminata Sow,Lait,,2000,03-06-2026,Ségou
+156,Ibrahim Coulibaly,Thé,999,750,23-07-2026,Sikasso
+7,Awa Traoré,Farine,999,2000,26-06-2026,Mopti
+179,  Seydou Camara ,Savon,,750,24-04-2026,Kayes
+165,Fatoumata Diallo,Farine,,abc,03-06-2026,BAMAKO
+158,awa traoré,riz,5,750,28/05/2026,Ségou
+160,Aminata Sow,Huile,3,,2026-01-29,bamako
+24,Awa Traoré,riz,5,,29/09/2026,Sikasso
+110,  Seydou Camara ,Farine,,-300,04-05-2026,BAMAKO
+182,Moussa Keita,Thé,10,abc,09-07-2026,Kayes
+147,awa traoré,Savon,999,1000,08-04-2026,BAMAKO
+72,,Lait,999,abc,27/05/2026,Ségou
+30,Awa Traoré,Sucre,,750,23/04/2026,Bamako
+95,Awa Traoré,Riz,999,750,25-04-2026,bamako
+96,Moussa Keita,Farine,2,1000,13/04/2026,Kayes
+90,Aminata Sow,Huile,3,abc,06/09/2026,BAMAKO
+28,Mariam Konaté,Farine,5,,2026-06-09,Bamako
+58,MOUSSA KEITA,riz,2,,06/07/2026,Sikasso
+124,,Riz,3,abc,2026-08-15,Mopti
+169,MOUSSA KEITA,Savon,2,,27/05/2026,Kayes
+40,  Seydou Camara ,Savon,3,abc,14/07/2026,Ségou
+55,  Seydou Camara ,Thé,2,2000,20/06/2026,Mopti
+130,Fatoumata Diallo,Savon,2,500,14/03/2026,Ségou
+148,Awa Traoré,Savon,999,2000,2026-08-01,Kayes
+27,Mariam Konaté,Sucre,2,abc,28-09-2026,Kayes
+199,  Seydou Camara ,Thé,3,abc,20/08/2026,Ségou
+80,  Seydou Camara ,Thé,999,,29-09-2026,BAMAKO
+154,  Seydou Camara ,Riz,10,750,2026-02-21,Kayes
+74,MOUSSA KEITA,Savon,1,,2026-02-13,bamako
+14,awa traoré,Sucre,3,abc,2026-01-17,Mopti
+185,Aminata Sow,Savon,1,,08-07-2026,bamako
+109,Aminata Sow,Farine,,1500,08/04/2026,Mopti
+193,Mariam Konaté,Sucre,5,750,2026-08-18,Mopti
+171,Moussa Keita,riz,,,14/08/2026,Sikasso
+91,,Riz,5,500,28/08/2026,Bamako
+106,,Thé,10,-300,19/08/2026,Sikasso
+32,,Farine,,1000,06/09/2026,bamako
+172,MOUSSA KEITA,Huile,2,abc,17-06-2026,BAMAKO
+85,Aminata Sow,Thé,1,1500,20-03-2026,Sikasso
+22,awa traoré,Savon,10,1000,15-05-2026,BAMAKO
+144,awa traoré,Farine,999,1500,28/07/2026,Bamako
+151,Aminata Sow,Sucre,10,1500,14/06/2026,BAMAKO
+16,,Thé,,2000,13/03/2026,Mopti
+143,Mariam Konaté,Riz,3,1000,03-05-2026,Mopti
+34,Awa Traoré,riz,999,-300,2026-08-05,Bamako
+191,Moussa Keita,Savon,1,,03/07/2026,Bamako

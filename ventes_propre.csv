@@ -1,0 +1,201 @@
+id_vente,client,produit,quantite,prix_unitaire,date_vente,ville
+150,Mariam Konaté,Thé,10,1500.0,2026-09-05,Ségou
+4,Seydou Camara,Savon,2,1000.0,2026-04-12,Bamako
+176,Awa Traoré,Farine,10,2000.0,2026-07-22,Sikasso
+127,Fatoumata Diallo,Savon,2,500.0,2026-08-29,Kayes
+83,Fatoumata Diallo,Sucre,1,875.0,2026-05-03,Sikasso
+9,Moussa Keita,Savon,1,750.0,2026-04-09,Bamako
+101,Aminata Sow,Lait,10,750.0,2026-10-17,Bamako
+142,Seydou Camara,Riz,5,2000.0,2026-10-09,Bamako
+67,Mariam Konaté,Sucre,1,875.0,2026-01-23,Sikasso
+173,Moussa Keita,Savon,2,2000.0,2026-10-04,Bamako
+12,Seydou Camara,Thé,2,1500.0,2026-03-29,Sikasso
+138,Awa Traoré,Lait,5,500.0,2026-07-25,Sikasso
+170,Awa Traoré,Savon,2,750.0,2026-03-12,Bamako
+43,Mariam Konaté,Riz,1,1000.0,2026-10-27,Bamako
+105,Moussa Keita,Riz,3,2000.0,2026-08-12,Sikasso
+44,Moussa Keita,Thé,3,750.0,2026-04-06,Bamako
+94,Awa Traoré,Riz,5,750.0,2026-08-04,Sikasso
+57,Moussa Keita,Riz,5,1000.0,2026-07-09,Sikasso
+122,Moussa Keita,Riz,1,2000.0,2026-03-18,Mopti
+19,Seydou Camara,Savon,10,1000.0,2026-02-02,Mopti
+159,Awa Traoré,Lait,1,2000.0,2026-03-27,Bamako
+36,Aminata Sow,Huile,2,1500.0,2026-04-08,Sikasso
+53,Seydou Camara,Savon,10,2000.0,2026-06-25,Bamako
+31,Moussa Keita,Savon,10,750.0,2026-01-17,Kayes
+129,Moussa Keita,Savon,2,1500.0,2026-02-28,Bamako
+134,Fatoumata Diallo,Riz,5,500.0,2026-10-22,Bamako
+174,Awa Traoré,Farine,5,1500.0,2026-09-04,Bamako
+25,Inconnu,Riz,2,500.0,2026-06-07,Bamako
+18,Moussa Keita,Thé,3,1000.0,2026-01-25,Mopti
+89,Moussa Keita,Savon,5,1500.0,2026-10-07,Ségou
+113,Seydou Camara,Savon,2,1000.0,2026-10-09,Sikasso
+112,Mariam Konaté,Lait,10,750.0,2026-10-25,Ségou
+190,Awa Traoré,Huile,3,750.0,2026-05-09,Bamako
+119,Seydou Camara,Farine,5,2000.0,2026-01-07,Sikasso
+60,Aminata Sow,Sucre,3,875.0,2026-01-13,Sikasso
+155,Seydou Camara,Savon,1,1000.0,2026-03-15,Sikasso
+78,Mariam Konaté,Farine,2,1500.0,2026-02-24,Bamako
+104,Mariam Konaté,Farine,10,2000.0,2026-09-25,Ségou
+92,Awa Traoré,Savon,2,1000.0,2026-08-08,Ségou
+135,Moussa Keita,Thé,3,1500.0,2026-03-31,Kayes
+61,Awa Traoré,Farine,5,750.0,2026-03-23,Bamako
+128,Inconnu,Sucre,3,1500.0,2026-08-21,Ségou
+146,Mariam Konaté,Huile,5,1500.0,2026-09-05,Ségou
+102,Aminata Sow,Farine,1,1500.0,2026-09-17,Bamako
+5,Fatoumata Diallo,Huile,3,1500.0,2026-01-04,Bamako
+11,Fatoumata Diallo,Riz,5,1500.0,2026-07-09,Mopti
+50,Mariam Konaté,Savon,5,1000.0,2026-07-09,Mopti
+133,Awa Traoré,Sucre,1,2000.0,2026-06-15,Kayes
+183,Awa Traoré,Lait,3,750.0,2026-02-20,Bamako
+48,Inconnu,Riz,10,1000.0,2026-02-07,Bamako
+20,Mariam Konaté,Savon,2,750.0,2026-01-06,Bamako
+81,Seydou Camara,Farine,5,1000.0,2026-10-08,Sikasso
+115,Moussa Keita,Farine,2,1000.0,2026-10-02,Sikasso
+26,Seydou Camara,Huile,2,1000.0,2026-09-06,Sikasso
+71,Mariam Konaté,Riz,5,2000.0,2026-03-31,Sikasso
+62,Moussa Keita,Sucre,3,875.0,2026-04-13,Bamako
+96,Moussa Keita,Farine,2,1000.0,2026-04-13,Kayes
+167,Fatoumata Diallo,Savon,10,1000.0,2026-07-15,Bamako
+75,Moussa Keita,Farine,1,500.0,2026-04-12,Mopti
+192,Awa Traoré,Riz,10,1000.0,2026-03-06,Ségou
+82,Mariam Konaté,Farine,5,2000.0,2026-05-07,Kayes
+157,Awa Traoré,Sucre,10,500.0,2026-09-07,Kayes
+79,Moussa Keita,Farine,5,750.0,2026-10-13,Kayes
+139,Mariam Konaté,Riz,5,1000.0,2026-06-15,Kayes
+187,Inconnu,Sucre,3,1000.0,2026-06-20,Bamako
+141,Awa Traoré,Sucre,3,875.0,2026-09-13,Sikasso
+73,Seydou Camara,Huile,10,1500.0,2026-08-15,Kayes
+120,Seydou Camara,Riz,5,2000.0,2026-04-05,Bamako
+100,Inconnu,Riz,5,2000.0,2026-05-05,Bamako
+54,Fatoumata Diallo,Riz,5,1000.0,2026-01-27,Bamako
+52,Fatoumata Diallo,Sucre,3,1000.0,2026-03-01,Kayes
+116,Moussa Keita,Savon,1,2000.0,2026-09-26,Bamako
+186,Moussa Keita,Riz,5,750.0,2026-03-04,Bamako
+197,Inconnu,Savon,5,1000.0,2026-10-27,Ségou
+149,Moussa Keita,Farine,5,1500.0,2026-06-02,Mopti
+140,Moussa Keita,Lait,1,750.0,2026-10-05,Mopti
+59,Moussa Keita,Huile,2,1000.0,2026-10-14,Ségou
+3,Inconnu,Riz,10,1500.0,2026-02-17,Mopti
+93,Ibrahim Coulibaly,Thé,3,1500.0,2026-06-17,Sikasso
+111,Aminata Sow,Sucre,2,2000.0,2026-01-09,Sikasso
+131,Aminata Sow,Savon,2,2000.0,2026-03-05,Mopti
+10,Seydou Camara,Lait,3,750.0,2026-04-30,Bamako
+46,Moussa Keita,Lait,3,750.0,2026-10-26,Bamako
+65,Inconnu,Thé,1,500.0,2026-10-25,Sikasso
+177,Ibrahim Coulibaly,Riz,5,1000.0,2026-05-15,Kayes
+184,Ibrahim Coulibaly,Riz,5,1500.0,2026-08-16,Kayes
+49,Ibrahim Coulibaly,Riz,2,2000.0,2026-10-03,Bamako
+17,Mariam Konaté,Farine,2,1500.0,2026-07-24,Bamako
+23,Ibrahim Coulibaly,Huile,2,1500.0,2026-09-17,Mopti
+121,Inconnu,Riz,1,1000.0,2026-02-03,Bamako
+64,Awa Traoré,Savon,1,1000.0,2026-09-18,Bamako
+200,Fatoumata Diallo,Lait,3,750.0,2026-02-18,Bamako
+42,Ibrahim Coulibaly,Riz,5,500.0,2026-01-30,Bamako
+38,Moussa Keita,Huile,3,750.0,2026-10-04,Ségou
+33,Awa Traoré,Thé,1,1500.0,2026-08-31,Sikasso
+98,Inconnu,Riz,1,2000.0,2026-02-28,Sikasso
+153,Mariam Konaté,Lait,2,500.0,2026-03-19,Bamako
+99,Moussa Keita,Riz,5,1000.0,2026-10-22,Mopti
+126,Awa Traoré,Thé,2,750.0,2026-03-30,Ségou
+39,Aminata Sow,Riz,5,1500.0,2026-09-06,Bamako
+189,Moussa Keita,Huile,3,500.0,2026-03-17,Mopti
+1,Moussa Keita,Huile,2,2000.0,2026-02-27,Kayes
+77,Moussa Keita,Riz,2,1000.0,2026-07-16,Bamako
+51,Awa Traoré,Huile,3,2000.0,2026-09-28,Sikasso
+29,Awa Traoré,Sucre,3,750.0,2026-05-07,Mopti
+6,Awa Traoré,Lait,5,750.0,2026-06-22,Bamako
+137,Seydou Camara,Savon,5,1000.0,2026-02-23,Kayes
+86,Moussa Keita,Thé,1,1500.0,2026-10-05,Ségou
+68,Ibrahim Coulibaly,Riz,10,1000.0,2026-08-09,Kayes
+63,Awa Traoré,Savon,3,1000.0,2026-04-09,Sikasso
+76,Inconnu,Sucre,3,875.0,2026-02-07,Kayes
+118,Moussa Keita,Farine,5,2000.0,2026-01-24,Bamako
+198,Awa Traoré,Sucre,1,875.0,2026-09-16,Ségou
+152,Seydou Camara,Thé,3,1500.0,2026-07-30,Ségou
+123,Mariam Konaté,Thé,3,1500.0,2026-08-02,Ségou
+188,Moussa Keita,Lait,3,1500.0,2026-10-11,Bamako
+45,Awa Traoré,Thé,10,500.0,2026-10-19,Kayes
+15,Seydou Camara,Huile,5,1500.0,2026-06-11,Sikasso
+66,Inconnu,Sucre,5,750.0,2026-06-10,Sikasso
+175,Mariam Konaté,Lait,3,750.0,2026-03-14,Bamako
+181,Moussa Keita,Thé,10,1500.0,2026-03-01,Ségou
+35,Awa Traoré,Sucre,3,875.0,2026-07-26,Bamako
+107,Seydou Camara,Sucre,2,875.0,2026-01-15,Sikasso
+132,Inconnu,Riz,1,1000.0,2026-10-04,Ségou
+125,Awa Traoré,Huile,3,1500.0,2026-02-20,Bamako
+196,Moussa Keita,Savon,1,1000.0,2026-06-14,Mopti
+114,Moussa Keita,Lait,3,750.0,2026-05-09,Bamako
+162,Inconnu,Huile,5,1500.0,2026-07-15,Bamako
+21,Moussa Keita,Farine,5,2000.0,2026-06-24,Bamako
+13,Awa Traoré,Sucre,3,875.0,2026-10-13,Bamako
+168,Awa Traoré,Farine,10,500.0,2026-07-22,Bamako
+195,Seydou Camara,Riz,5,750.0,2026-07-25,Bamako
+194,Awa Traoré,Riz,5,2000.0,2026-01-23,Ségou
+22,Awa Traoré,Savon,10,1000.0,2026-05-15,Bamako
+84,Moussa Keita,Sucre,2,750.0,2026-06-21,Ségou
+161,Moussa Keita,Riz,2,1000.0,2026-09-29,Mopti
+178,Mariam Konaté,Lait,10,500.0,2026-04-30,Mopti
+41,Moussa Keita,Savon,2,1000.0,2026-10-12,Bamako
+88,Aminata Sow,Thé,3,2000.0,2026-01-04,Mopti
+117,Mariam Konaté,Huile,1,2000.0,2026-07-04,Sikasso
+108,Fatoumata Diallo,Riz,10,2000.0,2026-05-13,Mopti
+97,Fatoumata Diallo,Lait,5,1500.0,2026-02-28,Bamako
+56,Moussa Keita,Riz,5,750.0,2026-01-05,Bamako
+136,Aminata Sow,Lait,3,750.0,2026-09-09,Sikasso
+24,Awa Traoré,Riz,5,1000.0,2026-09-29,Sikasso
+164,Seydou Camara,Lait,1,1000.0,2026-08-27,Mopti
+166,Seydou Camara,Riz,5,1000.0,2026-06-04,Bamako
+103,Moussa Keita,Thé,3,1500.0,2026-08-10,Bamako
+145,Fatoumata Diallo,Thé,10,2000.0,2026-03-20,Bamako
+37,Mariam Konaté,Riz,5,750.0,2026-08-25,Bamako
+163,Fatoumata Diallo,Riz,5,2000.0,2026-08-25,Bamako
+2,Aminata Sow,Riz,10,750.0,2026-02-22,Bamako
+180,Awa Traoré,Savon,1,1000.0,2026-07-29,Ségou
+87,Inconnu,Thé,3,500.0,2026-10-27,Ségou
+191,Moussa Keita,Savon,1,1000.0,2026-07-03,Bamako
+70,Aminata Sow,Thé,2,1000.0,2026-06-01,Kayes
+47,Fatoumata Diallo,Farine,5,1000.0,2026-05-16,Sikasso
+8,Fatoumata Diallo,Lait,10,750.0,2026-03-05,Mopti
+69,Aminata Sow,Lait,3,2000.0,2026-06-03,Ségou
+156,Ibrahim Coulibaly,Thé,3,750.0,2026-07-23,Sikasso
+7,Awa Traoré,Farine,5,2000.0,2026-06-26,Mopti
+179,Seydou Camara,Savon,2,750.0,2026-04-24,Kayes
+165,Fatoumata Diallo,Farine,5,1500.0,2026-06-03,Bamako
+158,Awa Traoré,Riz,5,750.0,2026-05-28,Ségou
+160,Aminata Sow,Huile,3,1500.0,2026-01-29,Bamako
+110,Seydou Camara,Farine,5,1500.0,2026-05-04,Bamako
+182,Moussa Keita,Thé,10,1500.0,2026-07-09,Kayes
+147,Awa Traoré,Savon,2,1000.0,2026-04-08,Bamako
+72,Inconnu,Lait,3,750.0,2026-05-27,Ségou
+30,Awa Traoré,Sucre,3,750.0,2026-04-23,Bamako
+95,Awa Traoré,Riz,5,750.0,2026-04-25,Bamako
+90,Aminata Sow,Huile,3,1500.0,2026-09-06,Bamako
+28,Mariam Konaté,Farine,5,1500.0,2026-06-09,Bamako
+58,Moussa Keita,Riz,2,1000.0,2026-07-06,Sikasso
+124,Inconnu,Riz,3,1000.0,2026-08-15,Mopti
+169,Moussa Keita,Savon,2,1000.0,2026-05-27,Kayes
+40,Seydou Camara,Savon,3,1000.0,2026-07-14,Ségou
+55,Seydou Camara,Thé,2,2000.0,2026-06-20,Mopti
+130,Fatoumata Diallo,Savon,2,500.0,2026-03-14,Ségou
+148,Awa Traoré,Savon,2,2000.0,2026-08-01,Kayes
+27,Mariam Konaté,Sucre,2,875.0,2026-09-28,Kayes
+199,Seydou Camara,Thé,3,1500.0,2026-08-20,Ségou
+80,Seydou Camara,Thé,3,1500.0,2026-09-29,Bamako
+154,Seydou Camara,Riz,10,750.0,2026-02-21,Kayes
+74,Moussa Keita,Savon,1,1000.0,2026-02-13,Bamako
+14,Awa Traoré,Sucre,3,875.0,2026-01-17,Mopti
+185,Aminata Sow,Savon,1,1000.0,2026-07-08,Bamako
+109,Aminata Sow,Farine,5,1500.0,2026-04-08,Mopti
+193,Mariam Konaté,Sucre,5,750.0,2026-08-18,Mopti
+171,Moussa Keita,Riz,5,1000.0,2026-08-14,Sikasso
+91,Inconnu,Riz,5,500.0,2026-08-28,Bamako
+106,Inconnu,Thé,10,1500.0,2026-08-19,Sikasso
+32,Inconnu,Farine,5,1000.0,2026-09-06,Bamako
+172,Moussa Keita,Huile,2,1500.0,2026-06-17,Bamako
+85,Aminata Sow,Thé,1,1500.0,2026-03-20,Sikasso
+144,Awa Traoré,Farine,5,1500.0,2026-07-28,Bamako
+151,Aminata Sow,Sucre,10,1500.0,2026-06-14,Bamako
+16,Inconnu,Thé,3,2000.0,2026-03-13,Mopti
+143,Mariam Konaté,Riz,3,1000.0,2026-05-03,Mopti
+34,Awa Traoré,Riz,5,1000.0,2026-08-05,Bamako
